@@ -1,0 +1,13 @@
+{
+    "name": "psevdo/t1",
+    "description": "tesr project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Shakirov Ruslan",
+            "email": "psevdo85@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
